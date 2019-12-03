@@ -1,2 +1,1 @@
-# progressiveenhancement
-my progress
+responsive design
